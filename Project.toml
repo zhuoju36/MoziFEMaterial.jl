@@ -1,0 +1,7 @@
+name = "MoziFEMaterial"
+uuid = "5c625665-895d-44ff-86f3-2d138af5696e"
+authors = ["HZJ <zhuoju36@hotmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
